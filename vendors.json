@@ -1,0 +1,8 @@
+{
+  "scripts": [
+    "bower_components/jquery/dist/jquery.js"
+  ],
+  "stylesheets": [
+    "bower_components/font-awesome/css/font-awesome.css"
+  ]
+}
